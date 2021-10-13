@@ -2,7 +2,7 @@
 just to make you bot online
 
 this is just a python code to make your bot online 
-just go to last line client.login("token")
+just go to last line client.run("token")
 replace your "token" with your "bot-token"
 
 client = commands.AutoShardedBot(commands.when_mentioned_or('$'))
